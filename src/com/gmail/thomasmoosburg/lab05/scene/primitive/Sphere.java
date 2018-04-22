@@ -9,7 +9,6 @@ import com.gmail.thomasmoosburg.lab05.geometry.Vector;
 
 /**
  * Klasse die eine Kugel definiert.
-* @author Lausch Sebastian, slausch@hm.edu
 * @author Schulz Thomas, thomasmoosburg@gmail.com
 * @version 4.0, 26.04.2015
 */
